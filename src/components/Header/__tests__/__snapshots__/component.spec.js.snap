@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Some component renders correctly 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#fff",
+        "zIndex": 1,
+      },
+      Object {},
+      Object {
+        "elevation": 2,
+        "shadowColor": "#000000",
+        "shadowOffset": Object {
+          "height": 2,
+          "width": 0,
+        },
+        "shadowOpacity": 0.15,
+        "shadowRadius": 1.41,
+      },
+      Object {
+        "backgroundColor": "#FFFFFF",
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+          "paddingVertical": 16,
+        },
+        Object {},
+      ]
+    }
+  >
+    <View />
+  </View>
+</RCTSafeAreaView>
+`;

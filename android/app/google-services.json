@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "293563448374",
+    "project_id": "hunianajatechnician",
+    "storage_bucket": "hunianajatechnician.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293563448374:android:448c57c8a5bd51e7706c97",
+        "android_client_info": {
+          "package_name": "com.hunianajatechnician"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293563448374-vsvqd6b7utp8iehd0bejdgn3rbp83387.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hunianajatechnician",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "293563448374-e4bqlne9nipiakjfq5215fvr4chvf1oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsoJVvFMldGi9yU5iJ4R-GO_YTWlrz6N4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293563448374-e4bqlne9nipiakjfq5215fvr4chvf1oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

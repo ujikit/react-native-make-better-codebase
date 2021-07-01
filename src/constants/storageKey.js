@@ -1,0 +1,8 @@
+const storageKey = {
+  TOKEN_LOGIN: 'TOKEN_LOGIN',
+  TOKEN_FIREBASE: 'TOKEN_FIREBASE',
+  PROFILE_DATA: 'PROFILE_DATA',
+  NOTIFICATION_DATA: 'NOTIFICATION_DATA',
+};
+
+export default storageKey;

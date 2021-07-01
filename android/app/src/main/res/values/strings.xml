@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Teknisi</string>
+    <string name="default_notification_channel_id" translatable="false">hunianajatechnician_notification_channel</string>
+</resources>
